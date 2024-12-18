@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parthvision11
+- 👋 Hi, I’m Parth Patel
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Compose UI
 - 😄 Pronouns: He/Him/His
