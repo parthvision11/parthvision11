@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parthvision11&show_icons=true&theme=prussian&count_private=true&line_height=27" alt="Parth's github stats"/>
 </a>
 <br>
+<br>
+<img align="center" src="https://github.com/parthvision11/parthvision11/blob/main/parry-patel.png" height="500" width="300" alt="Parth"/>
+
