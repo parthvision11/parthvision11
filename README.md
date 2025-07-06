@@ -13,5 +13,4 @@ You can click the Preview link to take a look at your changes.
 </a>
 <br>
 <br>
-<img align="center" src="https://github.com/parthvision11/parthvision11/blob/main/parry-patel.png" height="500" width="300" alt="Parth"/>
 
